@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+.DS_Store
+coverage
+apps/backend/dist
+apps/frontend/dist
